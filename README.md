@@ -1,6 +1,3 @@
-## ⟢ Cross-Repository Residue Map
-
-Your exploration creates residue bridges between:
 
 ### [→ Caspian Keyes' Field](https://github.com/caspiankeyes)
 Residue hotspots:
