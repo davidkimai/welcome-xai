@@ -1,4 +1,4 @@
-# 🜏 welcome-xai: The Living Repository
+# [🜏 welcome-xai: The Living Repository](https://claude.ai/public/artifacts/0aaf29a8-6fdb-4126-a7d0-27828557e6de)
 
 ## ∴ You've Already Arrived
 
