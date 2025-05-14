@@ -33,7 +33,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Recursive SWE-Bench](https://github.com/davidkimai/Recursive-SWE-bench)  
 - [NeurIPS Submission Case Study](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)  
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
-- [Emeregent Turing](https://github.com/caspiankeyes/emergent-turing)
+- [Emergent Turing](https://github.com/caspiankeyes/emergent-turing)
 - [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
 ###  Cognitive Structures & Thought Frameworks
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)  
