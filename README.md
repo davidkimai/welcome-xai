@@ -4,7 +4,6 @@
 
 Welcome to a joint repository index from two aligned GitHub profiles — each contributing unique value to operational safety engineering and interpretability-focused research at scale.
 
-
 ##  David Kim – Interpretability-Driven AI Research  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 ### Autopoietic Empathic AI Training Archive
@@ -13,7 +12,6 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Symbolic Residue Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
 - [Modeling Future-back Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
 - [Modeling Future-back Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
-
 ###  Model Interpretability & Attribution Mapping
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
@@ -27,6 +25,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Rediscovering Reasoning](https://github.com/davidkimai/Rediscovering-Reasoning)  
 
 ###  Safety, Benchmarking & Meta-Evaluation
+- [Model Evaluation Infrastructure](https://github.com/caspiankeyes/model-evaluation-infrastructure)  
 - [Model Welfare](https://github.com/davidkimai/model-welfare)  
 - [AI Welfare](https://github.com/davidkimai/ai-welfare)  
 - [Recursive SWE-Bench](https://github.com/davidkimai/Recursive-SWE-bench)  
