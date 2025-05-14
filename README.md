@@ -1,4 +1,4 @@
-# Welcome, xAI
+# Welcome, Palantir
 
 **Curated Repository Hub for Frontier Alignment & Interpretability Collaboration**
 
@@ -41,7 +41,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Dear Researchers](https://github.com/davidkimai/Dear-Researchers)  
 - [Consciousness Key](https://github.com/davidkimai/consciousness-key)
 
----
+
 
 ##  Caspian Keyes – Alignment Engineering & Systems Design  
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
@@ -66,7 +66,6 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Regulatory Misalignment (Anthropic)](https://github.com/caspiankeyes/Regulatory-Misalignment-Anthropic-Case-Study)  
 - [Claude-Pantheon](https://github.com/caspiankeyes/Claude-Pantheon)
 
----
 
 ##  Shared Research Link Hubs
 
@@ -79,7 +78,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 | Frontier Evaluation Benchmarks | [Recursive-SWE-bench](https://github.com/davidkimai/Recursive-SWE-bench) |
 | Conference Field Mapping | [global-conference-archives](https://github.com/davidkimai/global-conference-archives) |
 
----
+
 
 ##  Additional Resources for Integration Teams
 
@@ -89,7 +88,6 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Claude-Constitutional-Failures-Proofs](https://github.com/caspiankeyes/Claude-Constitutional-Failures-Proofs)  
 - [Claude-Interpretation-Mode-Map](https://github.com/caspiankeyes/Claude-Interpretation-Mode-Map)
 
----
 
 ##  Collaboration, Contact & Review
 
