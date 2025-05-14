@@ -80,7 +80,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 
 
 
-##  Additional Resources for Integration Teams
+##  In Progress for Integration Teams
 
 - [system-prompts-library](https://github.com/davidkimai/system-prompts-library)  
 - [symbolic-tokenizer](https://github.com/caspiankeyes/symbolic-tokenizer)  
