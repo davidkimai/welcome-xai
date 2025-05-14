@@ -7,7 +7,6 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 
 ##  David Kim – Interpretability-Driven AI Research  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
-
 ### Autopoietic Empathic AI Training Archive
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
@@ -47,6 +46,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
 
 ###  Alignment Engineering & Audit Frameworks
+- [Reflective Reasoning Multi-Agent Debate](https://github.com/caspiankeyes/multi-agent-debate)  
 - [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)  
 - [transformerOS](https://github.com/caspiankeyes/transformerOS)  
 - [recursionOS](https://github.com/caspiankeyes/recursionOS)  
