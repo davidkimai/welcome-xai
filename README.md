@@ -43,7 +43,7 @@ We welcome the xAI research, reasoning, and engineering teams. This page maps tw
 
 
 
-##  Caspian Keyes – Engineering Infrastructure & Reasoning Systems Design  
+##  Caspian Keyes – Systems Engineering & Reasoning Infrastructure Design  
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
 
 ###  Reasoning Infrastructure & Agent-Compatible Tooling
