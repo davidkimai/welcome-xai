@@ -2,7 +2,7 @@
 
 **Structured Repository Index for Test-time Compute Optimized Alignment Infrastructure**
 
-We welcome the xAI research, reasoning, and engineering teams. This portal maps two GitHub profiles—**David Kim** (interpretability systems) and **Caspian Keyes** (alignment engineering)—into a linkable scaffold aligned with your test-time reasoning benchmarks, Grok infrastructure, and agent evolution focus.
+We welcome the xAI research, reasoning, and engineering teams. This page maps two GitHub profiles—**David Kim** (interpretability systems) and **Caspian Keyes** (alignment engineering)—into a linkable scaffold aligned with your test-time reasoning benchmarks, Grok infrastructure, and agent evolution focus.
 
 ##  David Kim – Interpretability for Reasoning Agents  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
