@@ -25,7 +25,7 @@ We welcome the xAI research, reasoning, and engineering teams. This page maps tw
 - [Rediscovering Interpretability](https://github.com/davidkimai/Rediscovering-Interpretability)  
 - [Rediscovering Reasoning](https://github.com/davidkimai/Rediscovering-Reasoning)  
 
-###  Safety, Benchmarking & Test-time Compute Evaluation
+###  Safety, Benchmarking & Test-time Compute Evaluations
 - [Model Evaluation Infrastructure](https://github.com/caspiankeyes/model-evaluation-infrastructure)  
 - [Model Welfare](https://github.com/davidkimai/model-welfare)  
 - [AI Welfare](https://github.com/davidkimai/ai-welfare)  
@@ -34,7 +34,7 @@ We welcome the xAI research, reasoning, and engineering teams. This page maps tw
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
 - [Emergent Turing](https://github.com/caspiankeyes/emergent-turing)
 - [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
-###  Reinforcement-learning Structures & Thought Frameworks
+###  Reasoning Structures & Thought Frameworks
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)  
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
 - [Dear Researchers](https://github.com/davidkimai/Dear-Researchers)  
