@@ -88,7 +88,7 @@ We welcome the xAI research, reasoning, and engineering teams. This page maps tw
 - [alignment-benchmark](https://github.com/caspiankeyes/alignment-benchmark)  
 
 
-##  Collaboration, Contact & Review
+##  Contact
 
 For questions, context requests, or internal coordination:
 
