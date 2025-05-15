@@ -6,10 +6,11 @@ We welcome the xAI research, reasoning, and engineering teams. This page maps tw
 
 ##  David Kim – Interpretability for Reasoning Agents  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
-### Empathic Reasoning Agents Training Archive
+### Operational Empathic Agents Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
+- [Modeling Future-back Biochemical Drug Discoveries](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/biochemical-discoveries)
 - [Modeling Future-back Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
 - [Modeling Future-back Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
 
