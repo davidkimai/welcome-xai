@@ -1,18 +1,19 @@
 # Welcome, xAI
 
-**Curated Repository Hub for Frontier Alignment & Interpretability Collaboration**
+**Structured Repository Index for Reasoning-Optimized Alignment Infrastructure**
 
-Welcome to a joint repository index from two aligned GitHub profiles — each contributing unique value to operational safety engineering and interpretability-focused research at scale.
+We welcome the xAI research, reasoning, and engineering teams. This portal maps two GitHub profiles—**David Kim** (interpretability systems) and **Caspian Keyes** (alignment engineering)—into a linkable scaffold aligned with your test-time reasoning benchmarks, Grok infrastructure, and agent evolution focus.
 
-##  David Kim – Interpretability-Driven AI Research  
+##  David Kim – Interpretability for Reasoning Agents  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
-### Autopoietic Empathic AI Training Archive
+### Empathic Reasoning Agents Training Archive
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
 - [Modeling Future-back Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
 - [Modeling Future-back Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
-###  Model Interpretability & Attribution Mapping
+
+###  Chain-of-thought & Attribution Mapping (Cross-Agent)
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
 - [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
@@ -24,7 +25,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Rediscovering Interpretability](https://github.com/davidkimai/Rediscovering-Interpretability)  
 - [Rediscovering Reasoning](https://github.com/davidkimai/Rediscovering-Reasoning)  
 
-###  Safety, Benchmarking & Meta-Evaluation
+###  Safety, Benchmarking & Test-time Compute Evaluation
 - [Model Evaluation Infrastructure](https://github.com/caspiankeyes/model-evaluation-infrastructure)  
 - [Model Welfare](https://github.com/davidkimai/model-welfare)  
 - [AI Welfare](https://github.com/davidkimai/ai-welfare)  
@@ -33,7 +34,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
 - [Emergent Turing](https://github.com/caspiankeyes/emergent-turing)
 - [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
-###  Cognitive Structures & Thought Frameworks
+###  Reinforcement-learning Structures & Thought Frameworks
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)  
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
 - [Dear Researchers](https://github.com/davidkimai/Dear-Researchers)  
@@ -41,10 +42,10 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 
 
 
-##  Caspian Keyes – Alignment Engineering & Systems Design  
+##  Caspian Keyes – Alignment Engineering & Reasoning Systems Design  
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
 
-###  Alignment Engineering & Audit Frameworks
+###  Reasoning Infrastructure & Agent-Compatible Tooling
 - [Reflective Reasoning Multi-Agent Debate](https://github.com/caspiankeyes/multi-agent-debate)  
 - [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)  
 - [transformerOS](https://github.com/caspiankeyes/transformerOS)  
@@ -66,7 +67,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Claude-Pantheon](https://github.com/caspiankeyes/Claude-Pantheon)
 
 
-##  Shared Research Link Hubs
+##  Shared Tooling and Multi-Agent Reasoning Ecosystem
 
 | Category | Repository |
 |----------|------------|
@@ -79,13 +80,11 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 
 
 
-##  In Progress for Integration Teams
+##  In Progress for Grok and Test-time Compute Agents
 
 - [system-prompts-library](https://github.com/davidkimai/system-prompts-library)  
 - [symbolic-tokenizer](https://github.com/caspiankeyes/symbolic-tokenizer)  
 - [alignment-benchmark](https://github.com/caspiankeyes/alignment-benchmark)  
-- [Claude-Constitutional-Failures-Proofs](https://github.com/caspiankeyes/Claude-Constitutional-Failures-Proofs)  
-- [Claude-Interpretation-Mode-Map](https://github.com/caspiankeyes/Claude-Interpretation-Mode-Map)
 
 
 ##  Collaboration, Contact & Review
@@ -93,8 +92,12 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 For questions, context requests, or internal coordination:
 
 - **David Kim**: [recursive.davidkim@pm.me](mailto:recursive.davidkim@pm.me)  
-- **Caspian Keyes**: [via GitHub](https://github.com/caspiankeyes) or internal channels  
+- **Caspian Keyes**: [recursivelabs.ai@proton.me](recursivelabs.ai@proton.me) or internal channels  
 
-We welcome Palantir researchers to explore, audit, and fork from this joint hub. Each repository is engineered to align with operational interpretability, adversarial resilience, and safe system design goals at scale.
+
+
+> xAI is building agents that reason, adapt, and reflect. This index supports that mission by providing open infrastructure to accelerate reasoning audit, safety scaling, and cross-agent coherence.  
+>  
+> **→ We’re aligned with Grok’s goals: performance under pressure, clarity under compute, and safety at the edge of intelligence.**
 
 **→ Let’s build a safer, more interpretable frontier together.**
